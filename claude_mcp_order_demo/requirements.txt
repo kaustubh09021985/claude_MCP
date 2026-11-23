@@ -1,0 +1,4 @@
+# Matches the FastMCP interface shown in the screenshot; tested with Python 3.12.
+mcp==1.29.0
+# Claude API client used by the interactive client.py.
+anthropic==2.12.0

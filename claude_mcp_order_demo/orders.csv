@@ -1,0 +1,31 @@
+order_id,customer_id,customer_name,item,category,quantity,unit_price,currency,status,order_date,expected_delivery_date,delivery_date,city
+ORD-12345678,CUST-001,Aditi Shah,Wireless mouse,Electronics,1,1299.00,INR,delivered,2026-11-14,2026-11-19,2026-11-19,Mumbai
+ORD-87654321,CUST-002,Rohan Mehta,Keyboard,Electronics,1,2499.00,INR,shipped,2026-11-20,2026-11-24,,Pune
+ORD-10000003,CUST-001,Aditi Shah,Laptop stand,Accessories,1,1899.00,INR,delivered,2026-11-10,2026-11-14,2026-11-14,Mumbai
+ORD-10000004,CUST-003,Priya Nair,Headphones,Electronics,1,3999.00,INR,processing,2026-11-21,2026-11-25,,Bengaluru
+ORD-10000005,CUST-004,Vikram Rao,Webcam,Electronics,1,1499.00,INR,pending,2026-11-22,2026-11-26,,Mumbai
+ORD-10000006,CUST-005,Neha Patel,USB-C hub,Electronics,2,1799.00,INR,shipped,2026-11-19,2026-11-23,,Ahmedabad
+ORD-10000007,CUST-006,Arjun Iyer,Monitor,Electronics,1,13999.00,INR,delivered,2026-11-08,2026-11-12,2026-11-12,Chennai
+ORD-10000008,CUST-007,Sneha Desai,Desk lamp,Home,1,999.00,INR,cancelled,2026-11-18,,,Mumbai
+ORD-10000009,CUST-008,Karan Malhotra,Backpack,Accessories,1,2199.00,INR,delivered,2026-11-15,2026-11-19,2026-11-20,Delhi
+ORD-10000010,CUST-009,Meera Joshi,Coffee mug,Home,2,499.00,INR,returned,2026-11-09,2026-11-13,2026-11-13,Pune
+ORD-10000011,CUST-010,Ankit Verma,Wireless mouse,Electronics,2,1299.00,INR,delivered,2026-11-16,2026-11-20,2026-11-21,Hyderabad
+ORD-10000012,CUST-001,Aditi Shah,Headphones,Electronics,1,3999.00,INR,shipped,2026-11-20,2026-11-24,,Mumbai
+ORD-10000013,CUST-002,Rohan Mehta,Laptop stand,Accessories,1,1899.00,INR,processing,2026-11-22,2026-11-26,,Pune
+ORD-10000014,CUST-003,Priya Nair,USB-C cable,Electronics,3,399.00,INR,delivered,2026-11-14,2026-11-18,2026-11-18,Bengaluru
+ORD-10000015,CUST-004,Vikram Rao,Keyboard,Electronics,1,2499.00,INR,delivered,2026-11-13,2026-11-17,2026-11-18,Mumbai
+ORD-10000016,CUST-005,Neha Patel,Notebook,Stationery,5,199.00,INR,pending,2026-11-22,2026-11-25,,Ahmedabad
+ORD-10000017,CUST-006,Arjun Iyer,Webcam,Electronics,1,1499.00,INR,shipped,2026-11-20,2026-11-24,,Chennai
+ORD-10000018,CUST-007,Sneha Desai,Monitor,Electronics,1,13999.00,INR,processing,2026-11-21,2026-11-26,,Mumbai
+ORD-10000019,CUST-008,Karan Malhotra,Wireless mouse,Electronics,1,1299.00,INR,cancelled,2026-11-19,,,Delhi
+ORD-10000020,CUST-009,Meera Joshi,Desk lamp,Home,2,999.00,INR,delivered,2026-11-16,2026-11-20,2026-11-20,Pune
+ORD-10000021,CUST-010,Ankit Verma,USB-C hub,Electronics,1,1799.00,INR,returned,2026-11-10,2026-11-14,2026-11-15,Hyderabad
+ORD-10000022,CUST-001,Aditi Shah,Notebook,Stationery,4,199.00,INR,delivered,2026-11-17,2026-11-21,2026-11-21,Mumbai
+ORD-10000023,CUST-002,Rohan Mehta,Backpack,Accessories,1,2199.00,INR,shipped,2026-11-21,2026-11-25,,Pune
+ORD-10000024,CUST-003,Priya Nair,Coffee mug,Home,2,499.00,INR,pending,2026-11-22,2026-11-26,,Bengaluru
+ORD-10000025,CUST-004,Vikram Rao,Headphones,Electronics,1,3999.00,INR,delivered,2026-11-12,2026-11-16,2026-11-17,Mumbai
+ORD-10000026,CUST-005,Neha Patel,Keyboard,Electronics,1,2499.00,INR,processing,2026-11-21,2026-11-25,,Ahmedabad
+ORD-10000027,CUST-006,Arjun Iyer,USB-C cable,Electronics,2,399.00,INR,delivered,2026-11-16,2026-11-20,2026-11-21,Chennai
+ORD-10000028,CUST-007,Sneha Desai,"Desk organizer, metal",Accessories,1,799.00,INR,delivered,2026-11-15,2026-11-19,2026-11-20,Mumbai
+ORD-10000029,CUST-008,Karan Malhotra,Monitor,Electronics,1,13999.00,INR,shipped,2026-11-21,2026-11-26,,Delhi
+ORD-10000030,CUST-009,Meera Joshi,Laptop stand,Accessories,1,1899.00,INR,pending,2026-11-22,2026-11-26,,Pune
